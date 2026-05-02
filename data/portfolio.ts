@@ -35,9 +35,9 @@ export const personal = {
   shortLocation: "India",
   email: "krabhay476@gmail.com",
   linkedIn: "abhay-j",
-  github: "Abhay Jangra",
+  github: "ABHAY-AJ",
   linkedInUrl: "https://www.linkedin.com/in/abhay-j/",
-  githubUrl: "https://github.com/AbhayJangra",
+  githubUrl: "https://github.com/ABHAY-AJ",
   resumeUrl: "/resume.pdf"
 };
 
